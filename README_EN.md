@@ -189,7 +189,7 @@ Please mention [issues](https://github.com/luolongfei/freenom/issues) to inform 
 - Main program and framework: [@luolongfei](https://github.com/luolongfei)
 - English document: [@肖阿姨](#)
 
-Making some changes
+Making some changes 
 
 ### 🎉  Acknowledgements
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer/) (Mail sending function depends on this library)
